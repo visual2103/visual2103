@@ -1,4 +1,4 @@
-<h3 align="center">My name is Alina , I'm a computer scientist trained at UTCN interested in all things related to this field .</h3>
+<h3 align="center">My name is Alina , Innovative and driven Computer Engineering student pursuing a Bachelor's degree. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail. .</h3>
 
 - 👀 I’m currently working on **a project based on advanced computer vision using Python .**
 
