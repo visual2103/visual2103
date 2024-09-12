@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 I’m currently learning **Image Processing using OpenCV .**
 
-- 🤝🏼I’m looking to collaborate on **on my future projects .**
+- 🤝🏼I’m looking to collaborate on ** my future projects .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
