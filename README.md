@@ -5,19 +5,21 @@
 - 👩🏻‍💻 I’m currently learning **Image Processing using OpenCV .**
 
 - 🤝🏼I’m looking to collaborate on my future projects .
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="GIF description">
-</p>
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="GIF description" width="300">
+  </div>
+  <div style="margin-left: 20px;">
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+      <a href="https://www.linkedin.com/in/alina-macavei-54a7b5184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/alinus_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+      <a href="https://www.facebook.com/cosma.alina.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+      <a href="https://stackoverflow.com/users/24866899/alina-macavei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
+    </p>
+  </div>
+</div>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alina-macavei-54a7b5184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alinus_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/cosma.alina.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24866899/alina-macavei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
-
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
