@@ -1,7 +1,4 @@
 <h3 align="justify">My name is Alina , innovative and driven Computer Engineering student pursuing a Bachelor's degree. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail .</h3>
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnl
-
 
 - 👀 I’m currently working on **a project based on advanced computer vision using Python .**
 
