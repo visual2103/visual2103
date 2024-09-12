@@ -5,9 +5,9 @@
 - 👩🏻‍💻 I’m currently learning **Image Processing using OpenCV .**
 
 - 🤝🏼I’m looking to collaborate on my future projects .
-
-  <p align="center">
+- <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnl
+
 
 
 <h3 align="left">Connect with me:</h3>
