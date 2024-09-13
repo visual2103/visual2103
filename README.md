@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text and GIF Layout</title>
+   
 </head>
 <body>
     <h1 align="justify">HI THERE ✌🏻</h1>
