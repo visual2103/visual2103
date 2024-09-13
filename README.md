@@ -3,11 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Page</title>
-    <style>
-        body {
-            position: relative; /* Required for absolute positioning of child elements */
-        }
+   
     </style>
 </head>
 <body>
