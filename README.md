@@ -3,27 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+    <title>Profile Page</title>
+    <style>
+        body {
+            position: relative; /* Required for absolute positioning of child elements */
+        }
+    </style>
 </head>
 <body>
-    <h1 align="justify">HI THERE ✌🏻</h1>
-    <div style="position: absolute; left: 100px; top: 100px">
+    <div style="position: absolute; left: 100px; top: 100px;">
         Hi there, I'm 100px offset from where I ought to be, from the top and left.
     </div>
-    
-  <h3 align="justify">
+
+<h1 align="justify">HI THERE ✌🏻</h1>
+
+<h3 align="justify">
         My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.
     </h3>
 
-  <ul>
+<ul>
         <li>👀 I’m currently working on a project based on advanced computer vision using Python.</li>
         <li>👩🏻‍💻 I’m currently learning Image Processing using OpenCV.</li>
         <li>🤝🏼 I’m looking to collaborate on my future projects.</li>
     </ul>
 
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-  <div style="flex: 1; padding-right: 20px; min-width: 300px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <div style="flex: 1; padding-right: 20px; min-width: 300px;">
             <h3 align="left">Connect with me:</h3>
             <p align="left">
                 <a href="https://www.linkedin.com/in/alina-macavei-54a7b5184/" target="blank">
@@ -40,7 +45,7 @@
                 </a>
             </p>
 
-  <h3 style="text-align:left;">Languages and Tools:</h3>
+ <h3 style="text-align:left;">Languages and Tools:</h3>
             <p align="left">
                 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
                     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -84,10 +89,9 @@
             </p>
         </div>
 
-  <div style="flex: 1; text-align: center;">
+<div style="flex: 1; text-align: center;">
             <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="GIF description" width="300" height="200" style="display: block; margin: 0 auto;">
         </div>
-
-  </div>
+    </div>
 </body>
 </html>
