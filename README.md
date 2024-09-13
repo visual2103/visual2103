@@ -11,23 +11,23 @@
             justify-content: space-between; /* separă textul și GIF-ul */
             gap: 20px; /* adaugă spațiu între text și GIF */
         }
-{
-        .text {
+
+   .text {
             flex: 1;
             min-width: 300px;
         }
-{
-        .gif {
+
+   .gif {
             flex: 1;
             text-align: center;
         }
-{
-        img {
+
+   img {
             max-width: 100%; /* face imaginea să fie responsive */
             height: auto;
         }
-{
-        .social-links img {
+
+   .social-links img {
             margin-right: 10px; /* adaugă spațiu între iconițele de socializare */
         }
     </style>
@@ -36,16 +36,16 @@
     <div class="container">
         <!-- Secțiunea de text -->
         <div class="text">
-            <h3 align="justify">My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree. Proficient in programming languages such as                   C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.</h3>
+            <h3 align="justify">My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.</h3>
 
-   <ul>
+<ul>
                 <li>👀 I’m currently working on a project based on advanced computer vision using Python.</li>
                 <li>👩🏻‍💻 I’m currently learning Image Processing using OpenCV.</li>
                 <li>🤝🏼 I’m looking to collaborate on my future projects.</li>
             </ul>
 
             <!-- Connect with me și Languages and Tools -->
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
             <p align="left" class="social-links">
                 <a href="https://www.linkedin.com/in/alina-macavei-54a7b5184/" target="blank">
                     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -61,7 +61,7 @@
                 </a>
             </p>
 
-  <h3 style="text-align:left;">Languages and Tools:</h3>
+<h3 style="text-align:left;">Languages and Tools:</h3>
             <p align="left">
                 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
                     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -106,8 +106,8 @@
         </div>
 
         <!-- GIF-ul -->
-  <div class="gif">
-            <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="GIF description" width="300" height="200">
+<div class="gif">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="GIF description" width="300" height="200">
         </div>
     </div>
 </body>
