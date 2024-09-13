@@ -10,7 +10,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
   <!-- Secțiunea Connect with me și Languages and Tools -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20px; min-width: 300px;">
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://www.linkedin.com/in/alina-macavei-54a7b5184/" target="blank">
@@ -72,7 +72,7 @@
   </div>
 
   <!-- GIF-ul -->
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: center;">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="GIF description" width="300" height="200" style="display: block; margin: 0 auto;">
   </div>
 
