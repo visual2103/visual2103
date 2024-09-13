@@ -6,10 +6,9 @@
     <title>Text and GIF Layout</title>
 </head>
 <body>
-    <!-- Larger heading -->
     <h1 align="justify">HI THERE ✌🏻</h1>
 
-    <!-- Introduction and list -->
+    
   <h3 align="justify">
         My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.
     </h3>
@@ -20,10 +19,8 @@
         <li>🤝🏼 I’m looking to collaborate on my future projects.</li>
     </ul>
 
-    <!-- Container for sections and GIF -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-        <!-- Section for Connect with me and Languages and Tools -->
   <div style="flex: 1; padding-right: 20px; min-width: 300px;">
             <h3 align="left">Connect with me:</h3>
             <p align="left">
@@ -85,7 +82,6 @@
             </p>
         </div>
 
-        <!-- GIF -->
   <div style="flex: 1; text-align: center;">
             <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M3dnk2Mm9oN2t4cGd0aHYwdnNrNDRleTA1cWtsYzV1OWltZWE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="GIF description" width="300" height="200" style="display: block; margin: 0 auto;">
         </div>
