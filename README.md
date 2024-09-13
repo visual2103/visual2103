@@ -7,7 +7,9 @@
 </head>
 <body>
     <h1 align="justify">HI THERE ✌🏻</h1>
-
+    <div style="position: absolute; left: 100px; top: 100px">
+        Hi there, I'm 100px offset from where I ought to be, from the top and left.
+    </div>
     
   <h3 align="justify">
         My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.
