@@ -11,9 +11,7 @@
     </style>
 </head>
 <body>
-    <div style="position: absolute; left: 100px; top: 100px;">
-        Hi there, I'm 100px offset from where I ought to be, from the top and left.
-    </div>
+   
 
 <h1 align="justify">HI THERE ✌🏻</h1>
 
