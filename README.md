@@ -11,7 +11,7 @@
 <h1 align="justify">HI THERE ✌🏻</h1>
 
 <h3 align="justify">
-        My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.
+        My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree at the Technical University of Cluj-Napoca. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.
     </h3>
 
 <ul>
