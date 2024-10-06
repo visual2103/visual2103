@@ -17,7 +17,7 @@
 <ul>
         <li>👀 I’m currently working on a project based on advanced computer vision using Python.</li>
         <li>👩🏻‍💻 I’m currently learning Image Processing using OpenCV.</li>
-        <li>🤝🏼 I’m looking to collaborate on my future projects.</li>
+        <li>🤝🏼 I’m looking to collaborate on my future projects. Ideas worth spreading .</li>
     </ul>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
