@@ -39,7 +39,6 @@
                 <a href="[https://leetcode.com/YOUR_USERNAME/](https://leetcode.com/u/visual2103/)" target="blank">
                     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
                 </a>
-
             </p>
 
  <h3 style="text-align:left;">Languages and Tools:</h3>
