@@ -112,7 +112,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> 
     </a>
     <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Gradle_logo.svg" alt="gradle" width="40" height="40"/> 
     </a>
     <a href="https://junit.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="junit" width="40" height="40"/> 
