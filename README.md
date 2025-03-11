@@ -17,7 +17,7 @@
 <h3 align="justify">
     📄 Here you can access my <b>CV</b>: 
     <a href="https://drive.google.com/file/d/1zbTrCj1_V2z9NuhysaPd4rH0AG-f8LtW/view?usp=sharing" target="_blank">
-        <b>View CV</b>
+        <b>Alina Macavei</b>
     </a>
 </h3>
 
