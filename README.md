@@ -11,9 +11,15 @@
 <h1 align="justify">HI THERE ✌🏻</h1>
 
 <h3 align="justify">
-        My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree at the Technical University of Cluj-Napoca. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.
-    Here yop can access my CV : <a href="https://drive.google.com/file/d/1zbTrCj1_V2z9NuhysaPd4rH0AG-f8LtW/view?usp=sharing" target="blank">
-    </h3>
+    My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree at the Technical University of Cluj-Napoca. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.
+</h3>
+
+<h3 align="justify">
+    📄 Here you can access my <b>CV</b>: 
+    <a href="https://drive.google.com/file/d/1zbTrCj1_V2z9NuhysaPd4rH0AG-f8LtW/view?usp=sharing" target="_blank">
+        <b>View CV</b>
+    </a>
+</h3>
 
 <ul>
         <li>💼 I'm currently looking for internship opportunities in software engineering and full-stack development. If you have any opportunities or collaborations, feel free to                 reach out! </li>
