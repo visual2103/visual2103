@@ -12,9 +12,11 @@
 
 <h3 align="justify">
         My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree at the Technical University of Cluj-Napoca. Proficient in programming languages such as C/C++, Java, and Python. Proven ability to work effectively in a team and independently, with a strong attention to detail.
+    Here yop can access my CV : <a href="https://drive.google.com/file/d/1zbTrCj1_V2z9NuhysaPd4rH0AG-f8LtW/view?usp=sharing" target="blank">
     </h3>
 
 <ul>
+        <li>💼 I'm currently looking for internship opportunities in software engineering and full-stack development. If you have any opportunities or collaborations, feel free to                 reach out! </li>
         <li>👀 I’m currently working on a project based on advanced computer vision using Python.</li>
         <li>👩🏻‍💻 I’m currently learning Image Processing using OpenCV.</li>
         <li>🤝🏼 I’m looking to collaborate on my future projects. Ideas worth spreading .</li>
