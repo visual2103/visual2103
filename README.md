@@ -13,11 +13,7 @@
 <h3 align="justify">
     My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree at the Technical University of Cluj-Napoca. Proficient in programming languages such as Java, Python and C/C++. Proven ability to work effectively in a team and independently, with a strong attention to detail.
     My name is Alina, an innovative and driven Computer Engineering student pursuing a Bachelor's degree at the Technical University of Cluj-Napoca. Proficient in programming languages such as Java, Python and C/C++. Proven ability to work effectively in a team and independently, with strong attention to detail.
-    <br /><br />
-    My current focus includes research in computational neuroscience and deep learning, exploring Transformer-based
-    models for brain-signal understanding and advanced computer vision pipelines.
-    <br /><br />
-    I’m also a Java Working Student, contributing to backend development within a collaborative team environment.
+    I’m also a <span style="text-decoration: underline;">Java Working Student</span>, contributing to backend development within a collaborative team environment.
 </h3>
 
 <h3 align="justify">
@@ -28,9 +24,6 @@
 </h3>
 
 <ul>
-        <li>💼 I'm currently looking for internship opportunities in software engineering and full-stack development. If you have any opportunities or collaborations, feel free to                 reach out! </li>
-        <li>👀 I’m currently working on a project based on advanced computer vision using Python.</li>
-        <li>👩🏻‍💻 I’m currently learning Image Processing using OpenCV.</li>
         <li>🤝🏼 I’m looking to collaborate on my future projects. Ideas worth spreading .</li>
     </ul>
 
