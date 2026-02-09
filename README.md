@@ -22,7 +22,7 @@
 
 <h3 align="justify">
     📄 Here you can access my <b>CV</b>: 
-    <a href="https://drive.google.com/file/d/1EBFUfbP096MhWNcRF62lfFYdXKu9Z9Qv/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/drive/home">
         <b>Alina Macavei</b>
     </a>
 </h3>
